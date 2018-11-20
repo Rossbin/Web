@@ -70,8 +70,13 @@
 			vi. 验证
 				1) 访问http://<IP地址>//phpmyadmin
 
+				
+				
 #博客系统的搭建
+
+
 	1. 新建数据库  blog
+	
 	2. 部署typecho
 		a. Cd  /var/www/html
 		b. Wget  http://mirrors.eagleslab.com:8889/typecho.zip   //百度找typecho下载  然后用rz上传至Linux
@@ -83,6 +88,7 @@
 				1) 数据库密码填新设置的
 				2) 数据库名填blog(自己设置的)
 				
+	
 	3. 用隧道打通到公网上
 		a. 下载ngrok的客户端到本地
 		b. 上传该客户端至服务器根目录
