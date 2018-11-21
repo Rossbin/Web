@@ -1,11 +1,4 @@
-#查询IP地址：
-		Ip addr
-
-	1. 换源命令：
-			i. curl -o /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo
-		
-			i. Yum makecache
-		###查询IP地址：ip addr
+###查询IP地址：ip addr
 ----
 #Web服务器的安装
 ----
